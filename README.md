@@ -83,7 +83,7 @@ I'm **Michael, a full-stack developer. Interested in new technologies.**</div>
 <a href="https://instagram.com/https://www.instagram.com/mikiee__/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://discord.com/users/mike" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/458825502225072131" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </div>  
   
